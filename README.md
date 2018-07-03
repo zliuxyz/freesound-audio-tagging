@@ -1,4 +1,7 @@
-# Deep Learning course project at Dalhousie University
+# Freesound General-Purpose Audio Tagging Challenage
+
+## About
+This project is about the Freesound General-Purpose audio Tagging Challenage on Kaggle.
 
 ## Team member
 Zongming Liu - B00784897 - zongming.liu@dal.ca
