@@ -17,5 +17,5 @@ Milestone 4 - compare the test performance with the models on leaderboard of Kag
 
 Milestone 5 - write the report and prepare for presentation. August 1
 
-## Word log
+## Work log
 TODO
