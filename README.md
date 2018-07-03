@@ -1,4 +1,4 @@
-# Deep Learning course project at Dalhousie University, Summer 2018
+# Deep Learning course project at Dalhousie University
 
-# Team member
+## Team member
 Zongming Liu - B00784897 - zongming.liu@dal.ca
