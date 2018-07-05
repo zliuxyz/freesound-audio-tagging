@@ -18,4 +18,4 @@ Milestone 4 - compare the test performance with the models on leaderboard of Kag
 Milestone 5 - write the report and prepare for presentation. August 1
 
 ## Work log
-TODO
+Downloaded the baseline model provided by the competition, started training it on a Google Cloud Compute Engine with an instance of n1-standard-8. It is still training, and it might take up to 12 hours. July 4 - July 5
